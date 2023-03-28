@@ -1,3 +1,3 @@
 #Demo
 
-Some description about git.
+Some description about Git and Github.
